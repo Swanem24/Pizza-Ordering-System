@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=win\ startX\ startY
+comment0.target=Pizza(Canvas,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ pizza.\r\n\ @param\ win\ the\ window\ to\ draw\ the\ pizza\ on\r\n\ @param\ startX\ the\ top-left\ x\ coordinate\ for\ the\ section\ of\ screen\ to\ draw\ pizza\ on\r\n\ @param\ startY\ the\ top-left\ y\ coordinate\ for\ the\ section\ of\ screen\ to\ draw\ pizza\ on\r\n
+comment1.params=
+comment1.target=void\ displayPizza()
+comment1.text=\r\n\ Method\ to\ display\ the\ pizza\ information\ on\ the\ screen.\r\n
+comment2.params=
+comment2.target=void\ drawPizza()
+comment2.text=\r\n\ Method\ to\ display\ the\ pizza\ on\ the\ screen.\r\n
+comment3.params=
+comment3.target=void\ drawTopLine()
+comment3.text=\r\n\ Method\ to\ write\ the\ information\ shown\ in\ the\ bottom\ line\ of\ the\ \r\n\ individual\ pizza\ on\ the\ screen.\ \r\n\ This\ method\ will\ display\ the\ pizza\ number\ and\ size\ at\ the\ top\ of\ the\ \r\n\ screen\ (once\ completed)\r\n
+comment4.params=
+comment4.target=void\ drawBottomLine()
+comment4.text=\r\n\ Method\ to\ write\ the\ information\ shown\ in\ the\ bottom\ line\ of\ the\ \r\n\ individual\ pizza\ on\ the\ screen.\ \ \r\n\ This\ method\ will\ display\ the\ type\ of\ crust\ and\ sauce\ ordered\ (once\ \r\n\ completed)\r\n
+numComments=5
